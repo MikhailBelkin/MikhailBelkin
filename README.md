@@ -23,7 +23,7 @@ Russian (Native or Bilingual)</br>
 **Looking for interesting project to join.**</br></br>
 
 **Additional information:**</br>
-My curruent location is Europe, Slovenia, Ljubljana</br>
-Hobbies are motorsport, skiing, horse riding</br>
+My current location is Europe, Slovenia, Ljubljana</br>
+Hobbies are motorsport, skiing, horse riding, AI</br>
 
 

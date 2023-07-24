@@ -6,6 +6,9 @@ My other contatcs is: </br>
 Email: belkin.m@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/mike-belkin-1b444950 </br>
 </br></br>
+
+Interesting in AI<br>
+<br>
 **Top Skills:**</br>
 C/C++ 17, 20, </br>
 STL, XML, JSON, RALL, Visual Studio, CMake, Git </br>                                       

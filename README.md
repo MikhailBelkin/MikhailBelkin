@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm C/C++ developer.** </br>
+**I'm a Project Manager, but also i am C/C++ developer. It's not only work but hobby and passion** </br>
 My other contatcs is: </br>
 Email: belkin.m@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/mike-belkin-1b444950 </br>
